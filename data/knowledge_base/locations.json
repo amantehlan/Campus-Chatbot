@@ -1,0 +1,166 @@
+[
+  {
+    "id": "business_school",
+    "name": "Business School",
+    "category": "academic",
+    "description": "Home to the University of Edinburgh Business School, hosting MBA, undergraduate and postgraduate business programmes, lecture theatres, and staff offices.",
+    "opening_hours": "Mon-Fri 08:00-22:00, Sat-Sun 09:00-18:00",
+    "location": {"lat": 55.9430, "lon": -3.1880, "map_reference": "29 Buccleuch Place, Central Campus"},
+    "events": [
+      {"title": "Careers in Finance Talk", "date": "2026-06-18", "time": "17:00"}
+    ],
+    "image_folder": "data/images/business_school"
+  },
+  {
+    "id": "edinburgh_college_of_art",
+    "name": "Edinburgh College of Art - Main Building",
+    "category": "academic",
+    "description": "The main building of Edinburgh College of Art, housing studios, galleries, and teaching spaces for art, design, architecture and music.",
+    "opening_hours": "Mon-Fri 08:00-22:00, Sat 09:00-17:00, Sun Closed",
+    "location": {"lat": 55.9438, "lon": -3.1968, "map_reference": "74 Lauriston Place, Central Campus"},
+    "events": [
+      {"title": "Student Degree Show Exhibition", "date": "2026-06-20", "time": "10:00"}
+    ],
+    "image_folder": "data/images/edinburgh_college_of_art"
+  },
+  {
+    "id": "institute_of_genetics_and_cancer",
+    "name": "Institute of Genetics and Cancer (East Building)",
+    "category": "research",
+    "description": "A research facility within the Western General Hospital campus focused on genetics, cancer research, and molecular medicine.",
+    "opening_hours": "Mon-Fri 08:30-18:00, Sat-Sun Closed (staff/student access only)",
+    "location": {"lat": 55.9655, "lon": -3.2335, "map_reference": "Crewe Road South, Western General Hospital Campus"},
+    "events": [],
+    "image_folder": "data/images/institute_of_genetics_and_cancer"
+  },
+  {
+    "id": "university_visitor_centre",
+    "name": "University Visitor Centre",
+    "category": "information",
+    "description": "The first stop for prospective students and visitors, offering campus information, maps, merchandise, and admissions guidance.",
+    "opening_hours": "Mon-Fri 09:00-17:00, Sat 10:00-16:00, Sun Closed",
+    "location": {"lat": 55.9468, "lon": -3.1873, "map_reference": "Old College, South Bridge, Central Campus"},
+    "events": [
+      {"title": "Campus Welcome Tour", "date": "2026-06-15", "time": "11:00"}
+    ],
+    "image_folder": "data/images/university_visitor_centre"
+  },
+  {
+    "id": "main_library",
+    "name": "Main Library",
+    "category": "library",
+    "description": "The largest library on campus, offering study spaces, book collections, computer labs, and 24-hour study areas during exam periods.",
+    "opening_hours": "Mon-Fri 08:00-00:00, Sat-Sun 10:00-22:00",
+    "location": {"lat": 55.9438, "lon": -3.1888, "map_reference": "George Square, Central Campus"},
+    "events": [
+      {"title": "Dissertation Writing Workshop", "date": "2026-06-19", "time": "14:00"}
+    ],
+    "image_folder": "data/images/main_library"
+  },
+  {
+    "id": "gordon_aikman_lecture_theatre",
+    "name": "Gordon Aikman Lecture Theatre",
+    "category": "lecture_hall",
+    "description": "A modern lecture theatre used for large undergraduate teaching sessions, named in honour of alumnus and motor neurone disease campaigner Gordon Aikman.",
+    "opening_hours": "Mon-Fri 08:00-20:00, Sat-Sun Closed",
+    "location": {"lat": 55.9436, "lon": -3.1875, "map_reference": "Doorway 3, George Square, Central Campus"},
+    "events": [],
+    "image_folder": "data/images/gordon_aikman_lecture_theatre"
+  },
+  {
+    "id": "chas",
+    "name": "College of Arts, Humanities and Social Sciences",
+    "category": "academic",
+    "description": "Administrative and academic hub for the College of Arts, Humanities and Social Sciences, coordinating schools across the humanities.",
+    "opening_hours": "Mon-Fri 09:00-17:00, Sat-Sun Closed",
+    "location": {"lat": 55.9437, "lon": -3.1882, "map_reference": "George Square, Central Campus"},
+    "events": [],
+    "image_folder": "data/images/chas"
+  },
+  {
+    "id": "chancellors_court",
+    "name": "Chancellors Court",
+    "category": "campus_area",
+    "description": "A central courtyard area at King's Buildings, surrounded by science and engineering teaching buildings.",
+    "opening_hours": "Open 24 hours (outdoor area)",
+    "location": {"lat": 55.9230, "lon": -3.1730, "map_reference": "King's Buildings Campus"},
+    "events": [],
+    "image_folder": "data/images/chancellors_court"
+  },
+  {
+    "id": "chancellors_building",
+    "name": "Chancellor's Building",
+    "category": "academic",
+    "description": "Home to the College of Medicine and Veterinary Medicine, located at Little France, including lecture theatres and clinical teaching facilities.",
+    "opening_hours": "Mon-Fri 08:00-21:00, Sat-Sun 09:00-17:00",
+    "location": {"lat": 55.9230, "lon": -3.1335, "map_reference": "49 Little France Crescent, Little France Campus"},
+    "events": [
+      {"title": "Medical Student Open Day", "date": "2026-06-21", "time": "10:00"}
+    ],
+    "image_folder": "data/images/chancellors_building"
+  },
+  {
+    "id": "blackwood_crescent",
+    "name": "Blackwood Crescent Student Accommodation",
+    "category": "accommodation",
+    "description": "University-managed student residences offering self-catered accommodation close to Central Campus.",
+    "opening_hours": "Reception: Mon-Sun 08:00-20:00",
+    "location": {"lat": 55.9385, "lon": -3.1750, "map_reference": "Blackwood Crescent, Newington"},
+    "events": [],
+    "image_folder": "data/images/blackwood_crescent"
+  },
+  {
+    "id": "ashworth_laboratories",
+    "name": "Ashworth Laboratories",
+    "category": "academic",
+    "description": "Houses the School of Biological Sciences, including teaching labs, research facilities and the Institute of Evolutionary Biology.",
+    "opening_hours": "Mon-Fri 08:00-19:00, Sat-Sun Closed",
+    "location": {"lat": 55.9226, "lon": -3.1745, "map_reference": "King's Buildings Campus"},
+    "events": [],
+    "image_folder": "data/images/ashworth_laboratories"
+  },
+  {
+    "id": "george_square_40",
+    "name": "George Square, 40 - Lecture Theatres",
+    "category": "lecture_hall",
+    "description": "A teaching building at 40 George Square containing multiple lecture theatres used across various humanities and social science courses.",
+    "opening_hours": "Mon-Fri 08:00-20:00, Sat-Sun Closed",
+    "location": {"lat": 55.9437, "lon": -3.1885, "map_reference": "40 George Square, Central Campus"},
+    "events": [],
+    "image_folder": "data/images/george_square_40"
+  },
+  {
+    "id": "george_square_55_60",
+    "name": "George Square, 55-60",
+    "category": "academic",
+    "description": "A row of historic Georgian townhouses on George Square used as academic offices and seminar rooms for several schools.",
+    "opening_hours": "Mon-Fri 09:00-17:00, Sat-Sun Closed",
+    "location": {"lat": 55.9434, "lon": -3.1890, "map_reference": "55-60 George Square, Central Campus"},
+    "events": [],
+    "image_folder": "data/images/george_square_55_60"
+  },
+  {
+    "id": "fat_cat_cafe",
+    "name": "Fat Cat Café",
+    "category": "cafeteria",
+    "description": "A popular student-run café offering coffee, light meals, and snacks in a relaxed setting near Central Campus.",
+    "opening_hours": "Mon-Fri 08:00-18:00, Sat 09:00-17:00, Sun 10:00-16:00",
+    "location": {"lat": 55.9442, "lon": -3.1893, "map_reference": "Buccleuch Street, Central Campus"},
+    "events": [
+      {"title": "Open Mic Night", "date": "2026-06-17", "time": "19:00"}
+    ],
+    "image_folder": "data/images/fat_cat_cafe"
+  },
+  {
+    "id": "bedlam_theatre",
+    "name": "Bedlam Theatre",
+    "category": "venue",
+    "description": "Scotland's oldest student-run theatre, hosting plays, comedy shows, and the Bedlam Improv group throughout the year.",
+    "opening_hours": "Box Office: Mon-Sat 12:00-18:00, performance nights vary",
+    "location": {"lat": 55.9474, "lon": -3.1900, "map_reference": "2B Forrest Road, Central Campus"},
+    "events": [
+      {"title": "Bedlam Improv Show", "date": "2026-06-16", "time": "20:00"}
+    ],
+    "image_folder": "data/images/bedlam_theatre"
+  }
+]

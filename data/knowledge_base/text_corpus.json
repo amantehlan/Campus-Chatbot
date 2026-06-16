@@ -1,0 +1,37 @@
+[
+  {"text": "Where is the main library?", "intent": "find_location", "entity": "main_library"},
+  {"text": "Can you show me how to get to the business school?", "intent": "find_location", "entity": "business_school"},
+  {"text": "How do I find the Edinburgh College of Art building?", "intent": "find_location", "entity": "edinburgh_college_of_art"},
+  {"text": "Where can I find the chemistry department?", "intent": "find_location", "entity": "ashworth_laboratories"},
+  {"text": "I need directions to the Bedlam Theatre", "intent": "find_location", "entity": "bedlam_theatre"},
+  {"text": "Show me the way to Chancellor's Building", "intent": "find_location", "entity": "chancellors_building"},
+  {"text": "Where is the Gordon Aikman Lecture Theatre located?", "intent": "find_location", "entity": "gordon_aikman_lecture_theatre"},
+  {"text": "How do I get to the student accommodation on Blackwood Crescent?", "intent": "find_location", "entity": "blackwood_crescent"},
+  {"text": "Where is the university visitor centre?", "intent": "find_location", "entity": "university_visitor_centre"},
+  {"text": "Find a quiet study area near the cafeteria", "intent": "find_location", "entity": "fat_cat_cafe"},
+
+  {"text": "Is the main library open on Sundays?", "intent": "ask_hours", "entity": "main_library"},
+  {"text": "What time does the Fat Cat Cafe open?", "intent": "ask_hours", "entity": "fat_cat_cafe"},
+  {"text": "Is the cafeteria open today?", "intent": "ask_hours", "entity": "fat_cat_cafe"},
+  {"text": "What are the opening hours for the business school?", "intent": "ask_hours", "entity": "business_school"},
+  {"text": "When does the visitor centre close?", "intent": "ask_hours", "entity": "university_visitor_centre"},
+  {"text": "Are the Ashworth Laboratories open on weekends?", "intent": "ask_hours", "entity": "ashworth_laboratories"},
+  {"text": "What time does Chancellor's Building open in the morning?", "intent": "ask_hours", "entity": "chancellors_building"},
+  {"text": "Is the Edinburgh College of Art open on Saturday?", "intent": "ask_hours", "entity": "edinburgh_college_of_art"},
+
+  {"text": "Show me events at the student union today", "intent": "find_event", "entity": "bedlam_theatre"},
+  {"text": "Are there any events happening at the Bedlam Theatre this week?", "intent": "find_event", "entity": "bedlam_theatre"},
+  {"text": "What's on at the Fat Cat Cafe tonight?", "intent": "find_event", "entity": "fat_cat_cafe"},
+  {"text": "Is there an open day at Chancellor's Building?", "intent": "find_event", "entity": "chancellors_building"},
+  {"text": "Any workshops happening at the main library?", "intent": "find_event", "entity": "main_library"},
+  {"text": "Is there an exhibition at the art college this week?", "intent": "find_event", "entity": "edinburgh_college_of_art"},
+  {"text": "What career talks are happening at the business school?", "intent": "find_event", "entity": "business_school"},
+  {"text": "Is there a campus tour today?", "intent": "find_event", "entity": "university_visitor_centre"},
+
+  {"text": "What is the Institute of Genetics and Cancer used for?", "intent": "ask_description", "entity": "institute_of_genetics_and_cancer"},
+  {"text": "Tell me about George Square 40 lecture theatres", "intent": "ask_description", "entity": "george_square_40"},
+  {"text": "What is the College of Arts, Humanities and Social Sciences?", "intent": "ask_description", "entity": "chas"},
+  {"text": "What can I do at Chancellors Court?", "intent": "ask_description", "entity": "chancellors_court"},
+  {"text": "What is George Square 55-60 used for?", "intent": "ask_description", "entity": "george_square_55_60"},
+  {"text": "Tell me about the student accommodation at Blackwood Crescent", "intent": "ask_description", "entity": "blackwood_crescent"}
+]

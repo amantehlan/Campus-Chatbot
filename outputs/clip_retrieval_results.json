@@ -1,0 +1,559 @@
+{
+  "top1_accuracy": 0.304,
+  "top3_accuracy": 0.609,
+  "total_images": 46,
+  "details": [
+    {
+      "image": "data/images/business_school/Business School.jpg",
+      "true_label": "business_school",
+      "predicted_top1": "chancellors_court",
+      "predicted_top3": [
+        "chancellors_court",
+        "business_school",
+        "chancellors_building"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/business_school/Business School1.jpg",
+      "true_label": "business_school",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "edinburgh_college_of_art",
+        "george_square_40"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/business_school/Business School2.jpg",
+      "true_label": "business_school",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "edinburgh_college_of_art",
+        "gordon_aikman_lecture_theatre"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/business_school/Business School3.jpg",
+      "true_label": "business_school",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "edinburgh_college_of_art",
+        "chancellors_building"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/edinburgh_college_of_art/Edinburgh College of Art - Main Building.jpg",
+      "true_label": "edinburgh_college_of_art",
+      "predicted_top1": "george_square_55_60",
+      "predicted_top3": [
+        "george_square_55_60",
+        "business_school",
+        "edinburgh_college_of_art"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/edinburgh_college_of_art/Edinburgh College of Art - Main Building1.jpg",
+      "true_label": "edinburgh_college_of_art",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "edinburgh_college_of_art",
+        "chancellors_building"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/edinburgh_college_of_art/Edinburgh College of Art - Main Building2.jpg",
+      "true_label": "edinburgh_college_of_art",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "ashworth_laboratories",
+        "university_visitor_centre"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/institute_of_genetics_and_cancer/Institute of Genetics and Cancer East Building.jpg",
+      "true_label": "institute_of_genetics_and_cancer",
+      "predicted_top1": "university_visitor_centre",
+      "predicted_top3": [
+        "university_visitor_centre",
+        "gordon_aikman_lecture_theatre",
+        "main_library"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/institute_of_genetics_and_cancer/Institute of Genetics and Cancer East Building1.jpg",
+      "true_label": "institute_of_genetics_and_cancer",
+      "predicted_top1": "gordon_aikman_lecture_theatre",
+      "predicted_top3": [
+        "gordon_aikman_lecture_theatre",
+        "ashworth_laboratories",
+        "chancellors_building"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/institute_of_genetics_and_cancer/Institute of Genetics and Cancer East Building2.jpg",
+      "true_label": "institute_of_genetics_and_cancer",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "chancellors_building",
+        "gordon_aikman_lecture_theatre"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/university_visitor_centre/University Visitor Centre.jpg",
+      "true_label": "university_visitor_centre",
+      "predicted_top1": "chancellors_building",
+      "predicted_top3": [
+        "chancellors_building",
+        "university_visitor_centre",
+        "chancellors_court"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/university_visitor_centre/University Visitor Centre1.jpg",
+      "true_label": "university_visitor_centre",
+      "predicted_top1": "university_visitor_centre",
+      "predicted_top3": [
+        "university_visitor_centre",
+        "business_school",
+        "chancellors_building"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/main_library/Main Library.jpg",
+      "true_label": "main_library",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "ashworth_laboratories",
+        "chancellors_building"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/main_library/Main Library1.jpg",
+      "true_label": "main_library",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "gordon_aikman_lecture_theatre",
+        "chas"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/main_library/Main Library2.jpg",
+      "true_label": "main_library",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "chancellors_court",
+        "gordon_aikman_lecture_theatre"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/main_library/Main Library3.jpg",
+      "true_label": "main_library",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "george_square_40",
+        "edinburgh_college_of_art"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/gordon_aikman_lecture_theatre/Gordon Aikman Lecture Theatre.jpg",
+      "true_label": "gordon_aikman_lecture_theatre",
+      "predicted_top1": "university_visitor_centre",
+      "predicted_top3": [
+        "university_visitor_centre",
+        "chancellors_court",
+        "business_school"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/gordon_aikman_lecture_theatre/Gordon Aikman Lecture Theatre1.jpg",
+      "true_label": "gordon_aikman_lecture_theatre",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "edinburgh_college_of_art",
+        "gordon_aikman_lecture_theatre"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/gordon_aikman_lecture_theatre/Gordon Aikman Lecture Theatre2.jpg",
+      "true_label": "gordon_aikman_lecture_theatre",
+      "predicted_top1": "gordon_aikman_lecture_theatre",
+      "predicted_top3": [
+        "gordon_aikman_lecture_theatre",
+        "bedlam_theatre",
+        "edinburgh_college_of_art"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/chas/College of Arts, Humanities and Social Sciences.jpg",
+      "true_label": "chas",
+      "predicted_top1": "george_square_55_60",
+      "predicted_top3": [
+        "george_square_55_60",
+        "business_school",
+        "edinburgh_college_of_art"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/chancellors_court/Chancellors Court.jpg",
+      "true_label": "chancellors_court",
+      "predicted_top1": "blackwood_crescent",
+      "predicted_top3": [
+        "blackwood_crescent",
+        "business_school",
+        "chancellors_court"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/chancellors_court/Chancellors Court1.jpg",
+      "true_label": "chancellors_court",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "gordon_aikman_lecture_theatre",
+        "chancellors_court"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/chancellors_court/Chancellors Court2.jpg",
+      "true_label": "chancellors_court",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "gordon_aikman_lecture_theatre",
+        "chancellors_building"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/chancellors_building/Chancellor's Building.jpg",
+      "true_label": "chancellors_building",
+      "predicted_top1": "gordon_aikman_lecture_theatre",
+      "predicted_top3": [
+        "gordon_aikman_lecture_theatre",
+        "chancellors_building",
+        "university_visitor_centre"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/chancellors_building/Chancellor's Building1.jpg",
+      "true_label": "chancellors_building",
+      "predicted_top1": "gordon_aikman_lecture_theatre",
+      "predicted_top3": [
+        "gordon_aikman_lecture_theatre",
+        "business_school",
+        "chancellors_building"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/chancellors_building/Chancellor's Building2.jpg",
+      "true_label": "chancellors_building",
+      "predicted_top1": "gordon_aikman_lecture_theatre",
+      "predicted_top3": [
+        "gordon_aikman_lecture_theatre",
+        "university_visitor_centre",
+        "business_school"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/chancellors_building/Chancellor's Building3.jpg",
+      "true_label": "chancellors_building",
+      "predicted_top1": "gordon_aikman_lecture_theatre",
+      "predicted_top3": [
+        "gordon_aikman_lecture_theatre",
+        "university_visitor_centre",
+        "chancellors_building"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/blackwood_crescent/Blackwood Crescent Student Accommodation.jpg",
+      "true_label": "blackwood_crescent",
+      "predicted_top1": "blackwood_crescent",
+      "predicted_top3": [
+        "blackwood_crescent",
+        "edinburgh_college_of_art",
+        "george_square_55_60"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/blackwood_crescent/Blackwood Crescent Student Accommodation1.jpg",
+      "true_label": "blackwood_crescent",
+      "predicted_top1": "blackwood_crescent",
+      "predicted_top3": [
+        "blackwood_crescent",
+        "business_school",
+        "university_visitor_centre"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/ashworth_laboratories/Ashworth Laboratories.jpg",
+      "true_label": "ashworth_laboratories",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "edinburgh_college_of_art",
+        "george_square_40"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/ashworth_laboratories/Ashworth Laboratories1.jpg",
+      "true_label": "ashworth_laboratories",
+      "predicted_top1": "edinburgh_college_of_art",
+      "predicted_top3": [
+        "edinburgh_college_of_art",
+        "business_school",
+        "george_square_40"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/ashworth_laboratories/Ashworth Laboratories2.jpg",
+      "true_label": "ashworth_laboratories",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "george_square_40",
+        "bedlam_theatre"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/ashworth_laboratories/Ashworth Laboratories3.jpg",
+      "true_label": "ashworth_laboratories",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "george_square_40",
+        "george_square_55_60"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/george_square_40/George Square, 40 - Lecture Theatres.jpg",
+      "true_label": "george_square_40",
+      "predicted_top1": "edinburgh_college_of_art",
+      "predicted_top3": [
+        "edinburgh_college_of_art",
+        "bedlam_theatre",
+        "gordon_aikman_lecture_theatre"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/george_square_40/George Square, 40 - Lecture Theatres1.jpg",
+      "true_label": "george_square_40",
+      "predicted_top1": "gordon_aikman_lecture_theatre",
+      "predicted_top3": [
+        "gordon_aikman_lecture_theatre",
+        "george_square_40",
+        "business_school"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/george_square_40/George Square, 40 - Lecture Theatres2.jpg",
+      "true_label": "george_square_40",
+      "predicted_top1": "gordon_aikman_lecture_theatre",
+      "predicted_top3": [
+        "gordon_aikman_lecture_theatre",
+        "george_square_40",
+        "business_school"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/george_square_55_60/George Square, 55-60.jpg",
+      "true_label": "george_square_55_60",
+      "predicted_top1": "george_square_55_60",
+      "predicted_top3": [
+        "george_square_55_60",
+        "business_school",
+        "edinburgh_college_of_art"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/george_square_55_60/George Square, 55-602.jpg",
+      "true_label": "george_square_55_60",
+      "predicted_top1": "george_square_55_60",
+      "predicted_top3": [
+        "george_square_55_60",
+        "business_school",
+        "edinburgh_college_of_art"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/george_square_55_60/George Square, 55-603.jpg",
+      "true_label": "george_square_55_60",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "edinburgh_college_of_art",
+        "bedlam_theatre"
+      ],
+      "top1_correct": false,
+      "top3_correct": false
+    },
+    {
+      "image": "data/images/fat_cat_cafe/Fat Cat Caf\u00e9.jpg",
+      "true_label": "fat_cat_cafe",
+      "predicted_top1": "fat_cat_cafe",
+      "predicted_top3": [
+        "fat_cat_cafe",
+        "bedlam_theatre",
+        "university_visitor_centre"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/fat_cat_cafe/Fat Cat Caf\u00e92.jpg",
+      "true_label": "fat_cat_cafe",
+      "predicted_top1": "fat_cat_cafe",
+      "predicted_top3": [
+        "fat_cat_cafe",
+        "bedlam_theatre",
+        "edinburgh_college_of_art"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/fat_cat_cafe/Fat Cat Caf\u00e93.jpg",
+      "true_label": "fat_cat_cafe",
+      "predicted_top1": "fat_cat_cafe",
+      "predicted_top3": [
+        "fat_cat_cafe",
+        "university_visitor_centre",
+        "bedlam_theatre"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/bedlam_theatre/Bedlam Theatre.jpg",
+      "true_label": "bedlam_theatre",
+      "predicted_top1": "business_school",
+      "predicted_top3": [
+        "business_school",
+        "edinburgh_college_of_art",
+        "bedlam_theatre"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/bedlam_theatre/Bedlam Theatre2.jpg",
+      "true_label": "bedlam_theatre",
+      "predicted_top1": "edinburgh_college_of_art",
+      "predicted_top3": [
+        "edinburgh_college_of_art",
+        "bedlam_theatre",
+        "business_school"
+      ],
+      "top1_correct": false,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/bedlam_theatre/Bedlam Theatre3.jpg",
+      "true_label": "bedlam_theatre",
+      "predicted_top1": "bedlam_theatre",
+      "predicted_top3": [
+        "bedlam_theatre",
+        "business_school",
+        "edinburgh_college_of_art"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "image": "data/images/bedlam_theatre/Bedlam Theatre4.jpg",
+      "true_label": "bedlam_theatre",
+      "predicted_top1": "bedlam_theatre",
+      "predicted_top3": [
+        "bedlam_theatre",
+        "gordon_aikman_lecture_theatre",
+        "edinburgh_college_of_art"
+      ],
+      "top1_correct": true,
+      "top3_correct": true
+    }
+  ]
+}

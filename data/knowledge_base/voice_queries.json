@@ -1,0 +1,12 @@
+[
+  {"audio_file": "data/audio/query_1.mp3", "original_text": "Where is the main library?", "intent": "find_location", "entity": "main_library"},
+  {"audio_file": "data/audio/query_2.mp3", "original_text": "Show me events at the student union today.", "intent": "find_event", "entity": "bedlam_theatre"},
+  {"audio_file": "data/audio/query_3.mp3", "original_text": "Find a quiet study area near the cafeteria.", "intent": "find_location", "entity": "fat_cat_cafe"},
+  {"audio_file": "data/audio/query_4.mp3", "original_text": "What time does the library close?", "intent": "ask_hours", "entity": "main_library"},
+  {"audio_file": "data/audio/query_5.mp3", "original_text": "Where can I find the computer laboratory?", "intent": "find_location", "entity": "ashworth_laboratories"},
+  {"audio_file": "data/audio/query_6.mp3", "original_text": "Is the cafeteria open on Sundays?", "intent": "ask_hours", "entity": "fat_cat_cafe"},
+  {"audio_file": "data/audio/query_7.mp3", "original_text": "How do I get to lecture hall A?", "intent": "find_location", "entity": "gordon_aikman_lecture_theatre"},
+  {"audio_file": "data/audio/query_8.mp3", "original_text": "What events are happening this week?", "intent": "find_event", "entity": "bedlam_theatre"},
+  {"audio_file": "data/audio/query_9.mp3", "original_text": "Where is the admissions office located?", "intent": "find_location", "entity": "university_visitor_centre"},
+  {"audio_file": "data/audio/query_10.mp3", "original_text": "Find the nearest parking area.", "intent": "out_of_scope", "entity": null}
+]

@@ -1,0 +1,65 @@
+{
+  "average_wer": 0.0,
+  "results": [
+    {
+      "file": "query_1.mp3",
+      "reference": "Where is the main library?",
+      "hypothesis": "Where is the main library?",
+      "wer": 0.0
+    },
+    {
+      "file": "query_2.mp3",
+      "reference": "Show me events at the student union today.",
+      "hypothesis": "Show me events at the Student Union today.",
+      "wer": 0.0
+    },
+    {
+      "file": "query_3.mp3",
+      "reference": "Find a quiet study area near the cafeteria.",
+      "hypothesis": "Find a quiet study area near the cafeteria.",
+      "wer": 0.0
+    },
+    {
+      "file": "query_4.mp3",
+      "reference": "What time does the library close?",
+      "hypothesis": "What time does the library close?",
+      "wer": 0.0
+    },
+    {
+      "file": "query_5.mp3",
+      "reference": "Where can I find the computer laboratory?",
+      "hypothesis": "Where can I find the computer laboratory?",
+      "wer": 0.0
+    },
+    {
+      "file": "query_6.mp3",
+      "reference": "Is the cafeteria open on Sundays?",
+      "hypothesis": "Is the cafeteria open on Sundays?",
+      "wer": 0.0
+    },
+    {
+      "file": "query_7.mp3",
+      "reference": "How do I get to lecture hall A?",
+      "hypothesis": "How do I get to lecture hall A?",
+      "wer": 0.0
+    },
+    {
+      "file": "query_8.mp3",
+      "reference": "What events are happening this week?",
+      "hypothesis": "What events are happening this week?",
+      "wer": 0.0
+    },
+    {
+      "file": "query_9.mp3",
+      "reference": "Where is the admissions office located?",
+      "hypothesis": "Where is the admissions office located?",
+      "wer": 0.0
+    },
+    {
+      "file": "query_10.mp3",
+      "reference": "Find the nearest parking area.",
+      "hypothesis": "Find the nearest parking area.",
+      "wer": 0.0
+    }
+  ]
+}
